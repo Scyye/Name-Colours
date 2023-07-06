@@ -18,7 +18,7 @@ namespace ColouredNames
     {
         private const string ModId = "dev.scyye.rounds.namecolours";
         private const string ModName = "Name Colours";
-        public const string Version = "1.0.0";
+        public const string Version = "1.1.0";
 
         public static Main instance { get; private set; }
 
