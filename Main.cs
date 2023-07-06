@@ -31,6 +31,7 @@ namespace ColouredNames
         {
             instance = this;
             Debug.Log(ModId);
+            UnboundLib.Unbound.RegisterClientSideMod(ModId);
 
             var harmony = new Harmony(ModId);
             harmony.PatchAll();

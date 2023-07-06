@@ -7,52 +7,43 @@
 
   <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>DLLs\0Harmony.dll</HintPath>
+      <HintPath>..\..\..\Downloads\Justin Run 2 Demo\BepInEx\core\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>DLLs\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\CardLimit\CardLimit\DLLs\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx">
-      <HintPath>DLLs\BepInEx.dll</HintPath>
-    </Reference>
-    <Reference Include="CardChoiceSpawnUniqueCardPatch">
-      <HintPath>DLLs\CardChoiceSpawnUniqueCardPatch.dll</HintPath>
+      <HintPath>..\CardLimit\CardLimit\DLLs\BepInEx.dll</HintPath>
     </Reference>
     <Reference Include="ModdingUtils">
-      <HintPath>DLLs\ModdingUtils.dll</HintPath>
+      <HintPath>..\CardLimit\CardLimit\DLLs\ModdingUtils.dll</HintPath>
     </Reference>
     <Reference Include="ModsPlus">
-      <HintPath>DLLs\ModsPlus.dll</HintPath>
-    </Reference>
-    <Reference Include="Photon3Unity3D">
-      <HintPath>DLLs\Photon3Unity3D.dll</HintPath>
+      <HintPath>..\CardLimit\CardLimit\DLLs\ModsPlus.dll</HintPath>
     </Reference>
     <Reference Include="PhotonRealtime">
       <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\ROUNDS\Rounds_Data\Managed\PhotonRealtime.dll</HintPath>
     </Reference>
     <Reference Include="PhotonUnityNetworking">
-      <HintPath>DLLs\PhotonUnityNetworking.dll</HintPath>
+      <HintPath>..\CardLimit\CardLimit\DLLs\PhotonUnityNetworking.dll</HintPath>
     </Reference>
     <Reference Include="PhotonUnityNetworking.Utilities">
-      <HintPath>DLLs\PhotonUnityNetworking.Utilities.dll</HintPath>
-    </Reference>
-    <Reference Include="RarityLib">
-      <HintPath>DLLs\RarityLib.dll</HintPath>
+      <HintPath>..\CardLimit\CardLimit\DLLs\PhotonUnityNetworking.Utilities.dll</HintPath>
     </Reference>
     <Reference Include="RoundsWithFriends">
       <HintPath>..\..\..\AppData\Roaming\r2modmanPlus-local\ROUNDS\profiles\testing\BepInEx\plugins\olavim-RoundsWithFriends\RoundsWithFriends.dll</HintPath>
     </Reference>
     <Reference Include="UnboundLib">
-      <HintPath>DLLs\UnboundLib.dll</HintPath>
+      <HintPath>..\CardLimit\CardLimit\DLLs\UnboundLib.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>..\..\..\Downloads\Justin Run 2 Demo\Justin run 2_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\ROUNDS\Rounds_Data\Managed\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>DLLs\UnityEngine.dll</HintPath>
+      <HintPath>..\CardLimit\CardLimit\DLLs\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>DLLs\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>..\CardLimit\CardLimit\DLLs\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
   </ItemGroup>
 
